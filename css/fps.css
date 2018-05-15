@@ -29,7 +29,7 @@ body {
   height: 100%;
   /* background-image: url("../assets/img/bg.jpg");
   background-size: cover; */
-  background: #fff;
+  background: #cccccc;
   font-family: 'PT Sans', sans-serif;
 }
 body {
@@ -135,9 +135,9 @@ body {
 
 .cover-heading-primary {
   text-transform: uppercase;
-  font-weight: 100;
+  font-weight: 700;
   text-shadow: none;
-  font-size: 2rem;
+  font-size: 1.9rem;
   line-height: 3rem;
 }
 
@@ -147,6 +147,8 @@ body {
   text-shadow: none;
   font-size: 1.1rem;
   line-height: 2rem;
+  border-top: 3px solid #E75112;
+  padding-top: 1rem;
 }
 
 
